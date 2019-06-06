@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">singleScreenApp</string>
+    <string name="motto">...One Stop Shop Telecom Shop in the City of Abuja.</string>
+    <string name="companylogodescription">companyLogo</string>
+    <string name="about">About Us</string>
+    <string name="about_us_desc">A one stop telecom shop in the heart of Abuja, Connects friends and families accross all networks. Home to your mobile world!</string>
+    <string name="address">54, Parakou Crescent, Off Aminu Kano Crescent, Wuse 2 Abuja</string>
+    <string name="footer">... home to your mobile world.</string>
+    <string name="phones">09036778363, 092900800.</string>
+    <string name="email">info@connectmobileng.com</string>
+</resources>
